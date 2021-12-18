@@ -6,6 +6,6 @@
 def main():
     number=-8
     answer=abs(number)
-    return answer
+    print(answer)
 a=main()
-print(a)
+
